@@ -9,4 +9,4 @@ See the dashboard here: https://nfl-o-line.streamlit.app/
 ## Data
 The data for this dashboard is from this Kaggle Competition: https://www.kaggle.com/competitions/nfl-big-data-bowl-2023/overview
 
-Please read the rules / regulations there before using the data for anything else 
+Read the rules / regulations there before using the data for anything else 
